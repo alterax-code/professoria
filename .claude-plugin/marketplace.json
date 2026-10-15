@@ -1,0 +1,11 @@
+{
+  "name": "professoria",
+  "owner": { "name": "Alterax" },
+  "plugins": [
+    {
+      "name": "professoria",
+      "source": "./",
+      "description": "Professeur adaptatif /prof : boucle cours, exercices, evaluation avec verification independante."
+    }
+  ]
+}

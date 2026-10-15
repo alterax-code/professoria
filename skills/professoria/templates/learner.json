@@ -1,0 +1,15 @@
+{
+  "sujet": "",
+  "slug": "",
+  "profil": {
+    "niveau_declare": "",
+    "objectif": "",
+    "temps_par_session": "",
+    "contexte": "",
+    "preferences": []
+  },
+  "niveau_global": 1,
+  "notions": {},
+  "historique": [],
+  "derniere_session": null
+}

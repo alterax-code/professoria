@@ -1,0 +1,24 @@
+{
+  "sujet": "",
+  "slug": "",
+  "objectif": "",
+  "cree_le": "",
+  "version": 1,
+  "verifie": false,
+  "modules": [
+    {
+      "id": "m1",
+      "titre": "",
+      "notions": [
+        {
+          "id": "m1n1",
+          "titre": "",
+          "description": "",
+          "prerequis": [],
+          "objectifs": [""],
+          "niveau_base": 1
+        }
+      ]
+    }
+  ]
+}
