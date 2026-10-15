@@ -1,7 +1,14 @@
 {
   "name": "professoria",
-  "version": "1.0.0",
   "description": "Professeur adaptatif : cours, exercices et evaluations verifies par un agent independant, avec suivi de progression persistant.",
-  "author": { "name": "Alterax" },
-  "keywords": ["education", "tutor", "apprentissage", "cours", "exercices"]
+  "author": {
+    "name": "Alterax"
+  },
+  "keywords": [
+    "education",
+    "tutor",
+    "apprentissage",
+    "cours",
+    "exercices"
+  ]
 }

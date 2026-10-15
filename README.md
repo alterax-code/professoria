@@ -28,6 +28,20 @@ Dans Claude Code :
 
 Redemarre Claude Code, c'est pret.
 
+## Mises a jour
+
+Chaque commit publie sur ce depot est une nouvelle version.
+
+**Automatiques (recommande, a faire une seule fois)** : tape `/plugin`, va dans **Marketplaces**, choisis `professoria`, puis **Enable auto-update**. Les mises a jour arrivent ensuite toutes seules en arriere-plan ; quand Claude Code te le signale, lance `/reload-plugins` ou redemarre.
+
+**Manuelles** :
+
+```
+/plugin marketplace update professoria
+```
+
+Puis `/reload-plugins`, ou redemarre Claude Code.
+
 ## Utilisation
 
 | Commande | Effet |

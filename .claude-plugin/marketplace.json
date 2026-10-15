@@ -1,6 +1,9 @@
 {
   "name": "professoria",
-  "owner": { "name": "Alterax" },
+  "description": "Professeur adaptatif pour Claude Code : cours, exercices et evaluations verifies, suivi de progression par sujet.",
+  "owner": {
+    "name": "Alterax"
+  },
   "plugins": [
     {
       "name": "professoria",
